@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:26.529735
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:34
 #+TITLE: 佛說四自侵經
 #+PROPERTY: CBETA_ID T17n0736
 #+PROPERTY: ID KR6i0430
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 736
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0430_T_001-0538a> 
 #+PROPERTY: JUAN 1
 ¶
-No.736¶
-
- 《佛說四自侵經》¶
+No. 736¶
+《佛說四自侵經》¶
 ¶
 西晉三藏竺法護譯¶
 
@@ -122,7 +121,7 @@ No.736¶
 
 「無陰蓋者，謂之泥¶
 洹。其泥洹者，亦無五陰，日月星辰，風寒明¶
-瞑，不虛不實，無有歲年。除老病死，響之無¶
+暝，不虛不實，無有歲年。除老病死，響之無¶
 聞，不復陰身，以與道合。斯為長壽，常得安¶
 隱，久存無極，快樂難量，非俗所明也。慧人了¶
 是，分別說之，則可得佛真人之道。愚不行¶
@@ -157,6 +156,6 @@ No.736¶
 是行，却除眾欲；若開獄戶，鳥脫羅網。夫學道¶
 者，坐戀親戚妻子之屬，是以自迷，不至泥洹。」¶
 
-諸來會者，聞說如是，皆更一心離俗，遠著精¶
+諸來曾者，聞說如是，皆更一心離俗，遠著精¶
 進，作禮而去。¶
 《佛說四自侵經》
